@@ -2,7 +2,7 @@ import ResumeImg from "../assets/resume.jpg";
 
 export default function Resume() {
   const config = {
-    link: "https://www.africau.edu/images/default/sample.pdf",
+    link: "https://docs.google.com/document/d/1A8mhcraxNgpK3vSFU3XyHmT4O4gCF6Q_FpceTXA_1PQ/edit?usp=sharing",
   };
 
   return (
